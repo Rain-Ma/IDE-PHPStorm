@@ -18,6 +18,7 @@ File -> Default Setting -> Languages & Frameworks -> PHP
 ![Languages & Frameworks -> PHP](images/webserver01)
 
 <br>
+
 ![PHP CLI](images/webserver02)
 
 ![PHP CLI Success](images/webserver03)
@@ -48,9 +49,9 @@ File -> Default Setting -> Languages & Frameworks -> PHP
 
 Run -> Edit Configurations
 
-![php.ini](images/build01)
+![Built-in Web Server](images/build01)
 
-![php.ini](images/build02)
+![Built-in Web Server](images/build02)
 
 ----
 
@@ -67,6 +68,8 @@ Run -> Edit Configurations
 ![deployment](images/deployment03)
 
 ![deployment](images/deployment04)
+
+-----
 
 ## 测试
 
