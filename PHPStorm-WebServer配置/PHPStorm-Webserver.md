@@ -15,13 +15,13 @@
 
 File -> Default Setting -> Languages & Frameworks -> PHP
 
-![Languages & Frameworks -> PHP](images/webserver01)
+![Languages & Frameworks -> PHP](images/webserver01.png)
 
 <br>
 
-![PHP CLI](images/webserver02)
+![PHP CLI](images/webserver02.png)
 
-![PHP CLI Success](images/webserver03)
+![PHP CLI Success](images/webserver03.png)
 
 
 ### 解决php.ini不存在问题
@@ -32,9 +32,9 @@ File -> Default Setting -> Languages & Frameworks -> PHP
 
 > php.ini.default 是 php.ini文件的模板, 是为了防止php.ini文件改动后需要恢复默认设置而保留的文件. 可以直接复制php.ini.default文件用于php.ini文件.
 
-![php.ini](images/php01)
+![php.ini](images/php01.png)
 
-![php.ini](images/php02)
+![php.ini](images/php02.png)
 
 
 ```
@@ -49,9 +49,9 @@ File -> Default Setting -> Languages & Frameworks -> PHP
 
 Run -> Edit Configurations
 
-![Built-in Web Server](images/build01)
+![Built-in Web Server](images/build01.png)
 
-![Built-in Web Server](images/build02)
+![Built-in Web Server](images/build02.png)
 
 ----
 
@@ -61,28 +61,28 @@ Run -> Edit Configurations
 
 使用 `commond` + `,`  进入配置页面
 
-![deployment](images/deployment01)
+![deployment](images/deployment01.png)
 
-![deployment](images/deployment02)
+![deployment](images/deployment02.png)
 
-![deployment](images/deployment03)
+![deployment](images/deployment03.png)
 
-![deployment](images/deployment04)
+![deployment](images/deployment04.png)
 
 -----
 
 ## 测试
 
 
-![测试](images/final01)
+![测试](images/final01.png)
 
-![测试](images/final02)
+![测试](images/final02.png)
 
-![测试](images/final03)
+![测试](images/final03.png)
 
 
 ### 结果
 
-![成功](images/success)
+![成功](images/success.png)
 
 
